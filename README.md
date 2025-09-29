@@ -1,0 +1,1 @@
+## Familiarizing GIT with Python Django Project
